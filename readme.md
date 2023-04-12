@@ -12,3 +12,4 @@ This assignment displays understanding of how to retrieve data from another appl
 
 # Funtionality 
 The image below shows the web application's appearance
+![Weatherdash](https://user-images.githubusercontent.com/122712555/231329586-f3f45fdc-6f7e-44f7-b92a-07f941f5d3bd.JPG)
